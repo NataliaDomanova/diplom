@@ -1,1 +1,2 @@
+Diplom project
 # mq-diplom
